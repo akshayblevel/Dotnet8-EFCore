@@ -1,0 +1,1 @@
+Scaffold-DbContext "server=DESKTOP-F22LNIE;database=Location;Trusted_Connection=True;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models -Force -Tables "countries", "states", "cities"

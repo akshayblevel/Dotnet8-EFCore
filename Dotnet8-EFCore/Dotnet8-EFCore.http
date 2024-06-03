@@ -1,0 +1,6 @@
+@Dotnet8_EFCore_HostAddress = http://localhost:5047
+
+GET {{Dotnet8_EFCore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

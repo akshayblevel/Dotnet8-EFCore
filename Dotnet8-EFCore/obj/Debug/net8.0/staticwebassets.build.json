@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1WUDlRVTFA5Yar1O33Myl61/5XdFUuBj2IrwVlvoOwM=",
+  "Source": "Dotnet8-EFCore",
+  "BasePath": "_content/Dotnet8-EFCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
